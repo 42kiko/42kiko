@@ -2,12 +2,11 @@
 
 ###
 
-<p align="left">A passionate Data Scientist || Software Developer || Web Developer<br>Email Me 👉 ✉️ kiko97@tuta.io For Collaboration/Project or Anything Else. 😊😊</p>
-
 <div align="center">
   <img src="/42kiko.png" height="600" alt="bg"  />
 </div>
 
+<p align="Email Me 👉 ✉️ kiko97@tuta.io For Collaboration/Project or Anything Else. 😊😊</p>
 ###
 
 <div align="center">
