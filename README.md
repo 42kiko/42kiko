@@ -12,7 +12,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=42kiko&theme=graywhite&border_radius=4.8&background=45%2C7AB0E3%2C1817FF6C)](https://git.io/streak-stats)
 
+###
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=42kiko&theme=graywhite&border_radius=4.8&background=45%2C7AB0E3%2C1817FF6C" alt="GitHub Streak" /></a>
 
 ###
 
