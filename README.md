@@ -10,7 +10,7 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=42kiko&theme=sea&border_radius=4.8&background=60%2C82B6E8%2C1615EB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=42kiko&theme=maroongold&border_radius=4.8&background=45%2C1CEBE0%2C1615EB" alt="GitHub Streak" /></a>
 
 ###
 
