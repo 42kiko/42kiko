@@ -10,14 +10,12 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=42kiko&theme=maroongold&border_radius=4.8&background=45%2C1CEBE0%2C1615EB" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=42kiko&theme=graywhite&border_radius=4.8&background=45%2C7AB0E3%2C1817FF6C)](https://git.io/streak-stats)
+
+
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=42kiko&theme=sea&border_radius=4.8&card_width=600&card_height=200&background=45%2C7AB0E3%2C5C85AC)](https://git.io/streak-stats)
-
-###
-[![GitHub Streak](https://streak-stats.demolab.com?user=42kiko&theme=maroongold&border_radius=4.8&background=45%2C1CEBE0%2C1615EB)](https://git.io/streak-stats)
 <div align="center">
   <a href="https://www.linkedin.com/in/kiko97/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
