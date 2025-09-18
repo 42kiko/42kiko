@@ -10,6 +10,8 @@
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=42kiko&theme=synthwave&hide_border=true)
 
+<img src="https://streak-stats.demolab.com?user=42kiko&theme=synthwave&hide_border=true" alt="42kiko's GitHub Stats" />
+
 
 ###
 
