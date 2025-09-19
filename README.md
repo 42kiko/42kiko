@@ -8,14 +8,6 @@
 
 <p align="left">Email Me 👉 ✉️ kiko97@tuta.io For Collaboration/Project or Anything Else. 😊😊</p>
 
-![GitHub Stats](https://streak-stats.demolab.com?user=42kiko&theme=synthwave&hide_border=true)
-
-<img src="https://streak-stats.demolab.com?user=42kiko&theme=synthwave&hide_border=true" alt="42kiko's GitHub Stats" />
-
-
-###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=42kiko&theme=graywhite&border_radius=4.8&background=45%2C7AB0E3%2C1817FF6C)](https://git.io/streak-stats)
 
 ###
 
