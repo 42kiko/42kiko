@@ -15,6 +15,19 @@
 
 ###
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=42kiko&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+###
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=42kiko&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+###
+
+![GitHub Stats](https://streak-stats.demolab.com?user=42kiko&theme=default&hide_border=true)
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/kiko97/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
