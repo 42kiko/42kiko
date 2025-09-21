@@ -15,16 +15,15 @@
 
 ###
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=42kiko&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-###
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=42kiko&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=42kiko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ###
 
-![GitHub Stats](https://streak-stats.demolab.com?user=42kiko&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=42kiko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+###
+
+![GitHub Stats](https://streak-stats.demolab.com?user=42kiko&theme=tokyonight&hide_border=true)
 
 ###
 
