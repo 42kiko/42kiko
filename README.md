@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="center">A passionate Data Scientist || Software Developer || Web Developer<br>Email Me 👉 ✉️ kiko97@tuta.io For Collaboration/Project or Anything Else. 😊😊</h5>
+<h5 align="center">Email Me 👉 ✉️ kiko97@tuta.io For Collaboration/Project or Anything Else. 😊😊</h5>
 
 ###
 
