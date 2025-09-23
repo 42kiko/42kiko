@@ -113,6 +113,12 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=42kiko&theme=synthwave&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 ###
+
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=42kiko&theme=synthwave&card_width=600&card_height=200" alt="GitHub Streak" /></a>
+
+###
+
+
 <br clear="both">
 
 <div align="center">
